@@ -2,7 +2,9 @@
 
 ## This Neural Network has been implemented using purely numpy 
 ### Resources 
-https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook and 
+
+
 Neural Networks from Scratch By Harrison Kinsely and Daniel Kukeila 
 
 
